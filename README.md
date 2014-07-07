@@ -1,4 +1,4 @@
 DPA-WEB
 =======
 
-Fuentes para la web del dpa
+Corresponde a un tema de wordpress para el DPA.
